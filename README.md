@@ -1,5 +1,5 @@
 # Calculator_Project_Js
-It containing some beginner level Javascript Programs.
+It containing some beginner level Javascript Projects.
 This code creates a simple calculator functionality on a webpage. Let's break down line by line:
 
 let input = document.getElementById('inputBox');
